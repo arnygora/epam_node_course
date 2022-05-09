@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "task_1": "nodemon src/HW_1/task_1.js",
-    "task_2": "nodemon src/HW_1/task_2.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,5 @@
   "homepage": "https://github.com/arnygora/epam_node_course#readme",
   "devDependencies": {
     "nodemon": "^2.0.16"
-  },
-  "dependencies": {
-    "csvtojson": "^2.0.10"
   }
 }
