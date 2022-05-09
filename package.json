@@ -1,0 +1,22 @@
+{
+  "name": "epam_node_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnygora/epam_node_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnygora/epam_node_course/issues"
+  },
+  "homepage": "https://github.com/arnygora/epam_node_course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
